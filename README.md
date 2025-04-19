@@ -49,24 +49,23 @@ A comprehensive trading strategy simulation platform built with React.js, JavaSc
 ## Getting Started
 
 ### Prerequisites
-▫ Node.js (v14 or higher)
-
-▫ npm (v6 or higher) or yarn
+    ▫ Node.js (v14 or higher)
+    ▫ npm (v6 or higher) or yarn
 
 ### Installation
 #### 1. Clone the repository:
-git clone https://github.com/yourusername/trading-studio.git
-cd trading-studio
+    git clone https://github.com/yourusername/trading-studio.git
+    cd trading-studio
 
 #### 2. Install dependencies:
-npm install
-or
-yarn install
+    npm install
+    or
+    yarn install
 
 #### 3. Start the development server:
-npm run dev
-or
-yarn dev
+    npm run dev
+    or
+    yarn dev
 
 #### 4. Open your browser and navigate to:
-http://localhost:3000
+    http://localhost:3000
