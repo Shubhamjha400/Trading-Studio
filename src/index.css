@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+body {
+  @apply antialiased text-gray-800;
+}
+
+/* Custom styles */
+.strategy-builder-tab {
+  @apply px-4 py-2 font-medium text-gray-500 hover:text-gray-700;
+}
+
+.strategy-builder-tab.active {
+  @apply text-blue-600 border-b-2 border-blue-600;
+}
