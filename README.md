@@ -2,10 +2,10 @@
 
 A comprehensive trading strategy simulation platform built with React.js, JavaScript, and Tailwind CSS. This application allows users to create, test, and optimize trading strategies with a powerful backtesting engine.
 
-## Live Demo: https://tradingstudio.netlify.app/
+## Live Preview: https://tradingstudio.netlify.app/
 
 ## Features
-### • Strategy Builder with four configurable stages:
+#### • Strategy Builder with four configurable stages:
 
     ▫ Scanner Step: Filter instruments based on technical/fundamental criteria
 
@@ -15,11 +15,11 @@ A comprehensive trading strategy simulation platform built with React.js, JavaSc
 
     ▫ Simulation Step: Set portfolio management parameters
 
-### • Global Market Selection from major exchanges worldwide
+#### • Global Market Selection from major exchanges worldwide
 
-### • Portfolio Management with configurable position sizing
+#### • Portfolio Management with configurable position sizing
 
-### • Performance Analytics with key metrics:
+#### • Performance Analytics with key metrics:
 
     ▫ Overall returns
 
@@ -29,22 +29,22 @@ A comprehensive trading strategy simulation platform built with React.js, JavaSc
 
     ▫ Sharpe/Sortino ratios
 
-### • Saved Strategies dashboard with status tracking
+#### • Saved Strategies dashboard with status tracking
 
-### • Responsive Design works on desktop and mobile
+#### • Responsive Design works on desktop and mobile
 
 
 ## Technologies Used
 
-### • Frontend: React.js, JavaScript
+    • Frontend: React.js, JavaScript
 
-### • Styling: Tailwind CSS
+    • Styling: Tailwind CSS
 
-### • Routing: React Router
+    • Routing: React Router
 
-### • Build Tool: Vite 
+    • Build Tool: Vite 
 
-### • Version Control: Git
+    • Version Control: Git
 
 ## Getting Started
 
@@ -60,12 +60,12 @@ cd trading-studio
 
 #### 2. Install dependencies:
 npm install
-# or
+or
 yarn install
 
 #### 3. Start the development server:
 npm run dev
-# or
+or
 yarn dev
 
 #### 4. Open your browser and navigate to:
