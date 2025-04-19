@@ -1,12 +1,72 @@
-# React + Vite
+# Trading Studio - Strategy Builder Using React.js + JavaScript + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive trading strategy simulation platform built with React.js, JavaScript, and Tailwind CSS. This application allows users to create, test, and optimize trading strategies with a powerful backtesting engine.
 
-Currently, two official plugins are available:
+## Live Demo: https://tradingstudio.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+### • Strategy Builder with four configurable stages:
 
-## Expanding the ESLint configuration
+    ▫ Scanner Step: Filter instruments based on technical/fundamental criteria
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    ▫ Buy Step: Define entry trigger conditions
+
+    ▫ Sell Step: Configure exit rules
+
+    ▫ Simulation Step: Set portfolio management parameters
+
+### • Global Market Selection from major exchanges worldwide
+
+### • Portfolio Management with configurable position sizing
+
+### • Performance Analytics with key metrics:
+
+    ▫ Overall returns
+
+    ▫ Win rate
+
+    ▫ Drawdown analysis
+
+    ▫ Sharpe/Sortino ratios
+
+### • Saved Strategies dashboard with status tracking
+
+### • Responsive Design works on desktop and mobile
+
+
+## Technologies Used
+
+### • Frontend: React.js, JavaScript
+
+### • Styling: Tailwind CSS
+
+### • Routing: React Router
+
+### • Build Tool: Vite 
+
+### • Version Control: Git
+
+## Getting Started
+
+### Prerequisites
+▫ Node.js (v14 or higher)
+
+▫ npm (v6 or higher) or yarn
+
+### Installation
+#### 1. Clone the repository:
+git clone https://github.com/yourusername/trading-studio.git
+cd trading-studio
+
+#### 2. Install dependencies:
+npm install
+# or
+yarn install
+
+#### 3. Start the development server:
+npm run dev
+# or
+yarn dev
+
+#### 4. Open your browser and navigate to:
+http://localhost:3000
